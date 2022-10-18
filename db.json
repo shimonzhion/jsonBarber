@@ -1,0 +1,76 @@
+{
+    "barbers":[
+        {
+            "title":"Barberia Herzl",
+            "name":"Omer",
+            "img":"https://images.pexels.com/photos/897253/pexels-photo-897253.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load",
+            "phone":"052-3568457",
+            "location": "Herzl 16 Street Tel Aviv-Yafo " ,
+            "stars":4.6
+        },
+        {
+            "title":"BARBER IT",
+            "name":"Dani",
+            "img":"https://images.pexels.com/photos/7447125/pexels-photo-7447125.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load",
+            "phone":"053-4512306",
+            "location": "Ha-Khalutzim Street 26, Tel Aviv-Yafo" ,
+            "stars":4.8 
+        },
+        {
+            "title":"New York Barbershop in Tel Aviv",
+            "name":"Lior",
+            "img":"https://images.pexels.com/photos/5853391/pexels-photo-5853391.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load",
+            "phone":"055-7949023",
+            "location": "Ben Yehuda Street 138, Tel Aviv-Yafo" ,
+            "stars":4.9
+        },
+        {
+            "title":"Rafael Barber Shop",
+            "name":"Rafael",
+            "img":"https://images.pexels.com/photos/8867554/pexels-photo-8867554.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load",
+            "phone":"052-4950055",
+            "location": "Sheinkin Street 55, Tel Aviv-Yafo" ,
+            "stars":4.8 
+        },
+        {
+            "title":"Hooligan Barbershop",
+            "name":"Yehonatan",
+            "img":"https://images.pexels.com/photos/3037215/pexels-photo-3037215.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load",
+            "phone":"050-7775894",
+            "location": "Dizengoff Street 239, Tel Aviv-Yafo" ,
+            "stars":5
+        },
+        {
+            "title":"Barberboss By Memo",
+            "name":"Itai",
+            "img":"https://images.pexels.com/photos/7697644/pexels-photo-7697644.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load",
+            "phone":"053-3340934",
+            "location": "King George Street 9, Tel Aviv-Yafo" ,
+            "stars":4.5
+        },
+        {
+            "title":"Baruch's barbershop",
+            "name":"Baruch",
+            "img":"https://images.pexels.com/photos/9690289/pexels-photo-9690289.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load",
+            "phone":"058-9980133",
+            "location": "Mikve Israel Street 10, Tel Aviv-Yafo" ,
+            "stars":4.8
+        },
+        {
+            "title":"Yuri barbershop",
+            "name":"Yuri",
+            "img":"https://images.pexels.com/photos/2035308/pexels-photo-2035308.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load",
+            "phone":"050-4048502",
+            "location": "Nahalat Binyamin Street 75, Tel Aviv-Yafo" ,
+            "stars":4.6
+        },
+        {
+            "title":"BARBER SHOP SHMUEL",
+            "name":"SHMUEL",
+            "img":"https://images.pexels.com/photos/5853392/pexels-photo-5853392.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load",
+            "phone":"054-4422019",
+            "location": "Weizmann Street 4, Tel Aviv-Yafo" ,
+            "stars":4.9
+        }
+    ]
+}
