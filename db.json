@@ -40,6 +40,15 @@
       "location": "Sheinkin Street 55, Tel Aviv-Yafo",
       "stars": 4.8
     },
+
+    {
+      "title": "Hair Salon",
+      "name": "Ran",
+      "img": "https://images.pexels.com/photos/3998414/pexels-photo-3998414.jpeg?auto=compress&cs=tinysrgb&w=1600",
+      "phone": "077-3010099",
+      "location": "Rothschild Street 50 Rishon Lzion",
+      "stars": 4.6
+    },
     {
       "title": "Izik rubin",
       "name": "Izik",
