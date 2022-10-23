@@ -1,6 +1,14 @@
 {
   "barbers": [
     {
+      "title": "Yogev bokobza",
+      "name": "Yogev",
+      "img": "https://images.pexels.com/photos/7447150/pexels-photo-7447150.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load",
+      "phone": "052-3568457",
+      "location": "Alfred Fried Street 30 Beer Sheva",
+      "stars": 4.4
+    },
+    {
       "title": "Barberia Herzl",
       "name": "Omer",
       "img": "https://images.pexels.com/photos/897253/pexels-photo-897253.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load",
@@ -113,6 +121,30 @@
       "phone": "077-5640259",
       "location": "Ha Khelmonit 26 Rishon Lzion",
       "stars": 4.7
+    },
+    {
+      "title": "BARBER SHOP",
+      "name": "David",
+      "img": "https://images.pexels.com/photos/3654937/pexels-photo-3654937.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "phone": "077-5640259",
+      "location": "Kakal Street 31 Beer Sheva ",
+      "stars": 4.6
+    },
+    {
+      "title": "Men's Hair Salon",
+      "name": "Yossi",
+      "img": "https://images.pexels.com/photos/6007400/pexels-photo-6007400.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load",
+      "phone": "077-5640259",
+      "location": "Yohanan Horkanos 43 Beer Sheva",
+      "stars": 4.6
+    },
+    {
+      "title": "Asaf Hadad Barbershop",
+      "name": "Asaf",
+      "img": "https://images.pexels.com/photos/6007400/pexels-photo-6007400.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load",
+      "phone": "077-5640259",
+      "location": "Yohanan Horkanos 43 Beer Sheva",
+      "stars": 4.6
     }
   ]
 }
